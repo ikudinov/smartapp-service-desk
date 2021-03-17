@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ee5a5cd.chunk.css",
+    "main.js": "/static/js/main.68ac3e07.chunk.js",
+    "main.js.map": "/static/js/main.68ac3e07.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b7997003.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b7997003.js.map",
+    "static/js/2.e11a4f63.chunk.js": "/static/js/2.e11a4f63.chunk.js",
+    "static/js/2.e11a4f63.chunk.js.map": "/static/js/2.e11a4f63.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3ee5a5cd.chunk.css.map": "/static/css/main.3ee5a5cd.chunk.css.map",
+    "static/js/2.e11a4f63.chunk.js.LICENSE.txt": "/static/js/2.e11a4f63.chunk.js.LICENSE.txt",
+    "static/media/back.502ff82b.svg": "/static/media/back.502ff82b.svg",
+    "static/media/icons-bell.5b1bda32.svg": "/static/media/icons-bell.5b1bda32.svg",
+    "static/media/plus.e0a21de9.svg": "/static/media/plus.e0a21de9.svg",
+    "static/media/sd-img-support.105b0816.svg": "/static/media/sd-img-support.105b0816.svg",
+    "static/media/sd-img-tickets.d0f278e8.svg": "/static/media/sd-img-tickets.d0f278e8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7997003.js",
+    "static/js/2.e11a4f63.chunk.js",
+    "static/css/main.3ee5a5cd.chunk.css",
+    "static/js/main.68ac3e07.chunk.js"
+  ]
+}
