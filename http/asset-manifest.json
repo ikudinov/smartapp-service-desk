@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.19faaafc.chunk.css",
-    "main.js": "/static/js/main.dde80221.chunk.js",
-    "main.js.map": "/static/js/main.dde80221.chunk.js.map",
+    "main.css": "/static/css/main.d01b4efa.chunk.css",
+    "main.js": "/static/js/main.3cd92596.chunk.js",
+    "main.js.map": "/static/js/main.3cd92596.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b7997003.js",
     "runtime-main.js.map": "/static/js/runtime-main.b7997003.js.map",
     "static/js/2.e7817380.chunk.js": "/static/js/2.e7817380.chunk.js",
     "static/js/2.e7817380.chunk.js.map": "/static/js/2.e7817380.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.19faaafc.chunk.css.map": "/static/css/main.19faaafc.chunk.css.map",
+    "static/css/main.d01b4efa.chunk.css.map": "/static/css/main.d01b4efa.chunk.css.map",
     "static/js/2.e7817380.chunk.js.LICENSE.txt": "/static/js/2.e7817380.chunk.js.LICENSE.txt",
     "static/media/back.502ff82b.svg": "/static/media/back.502ff82b.svg",
     "static/media/icons-bell.5b1bda32.svg": "/static/media/icons-bell.5b1bda32.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.b7997003.js",
     "static/js/2.e7817380.chunk.js",
-    "static/css/main.19faaafc.chunk.css",
-    "static/js/main.dde80221.chunk.js"
+    "static/css/main.d01b4efa.chunk.css",
+    "static/js/main.3cd92596.chunk.js"
   ]
 }
