@@ -1,0 +1,6 @@
+<svg className="header-nav-btn__icon" viewBox="0 0 24 24" width="24" height="24" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <defs />
+    <path d="M21.7 11H13V2.2a1 1 0 00-2.2 0V11H2.3a1 1 0 000 2.2H11v8.6a1 1 0 002.2 0V13h8.6a1 1 0 000-2.2z"
+        fill="currentColor" />
+</svg>
